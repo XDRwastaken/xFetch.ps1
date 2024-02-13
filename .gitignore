@@ -1,14 +1,3 @@
-### VSCode ###
-
-# Configuration folder
 .vscode
-
-### Windows ###
-
-# Folder config file
+.gitpod.yml
 [Dd]esktop.ini
-
-### MacOS ###
-
-# General
-.DS_Store
