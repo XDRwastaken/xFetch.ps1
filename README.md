@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://codeberg.org/XDR/.profile/raw/branch/main/random/xFetch.ps1.jpg" alt="don't mind the username">
+<img src="https://gitlab.com/XDRwastaken/img/-/raw/main/xFetch_pwsh.jpg" alt="Don't mind the username">
 
    <h3>xFetch.ps1</h3>
    <p>xFetch, made for pwsh</p>
