@@ -16,7 +16,7 @@ $config = @(
 
 # ===== VARIABLES =====
 $e = [char]0x1B
-$os = Get-CimInstance -ClassName Win32_OperatingSystem -Property Caption,OSArchitecture,LastBootUpTime
+$os = Get-CimInstance -ClassName Win32_OperatingSystem -Property Caption,LastBootUpTime
 
 function truncate_line {
     param (
@@ -53,7 +53,7 @@ function info_pkgs {
     $numlines = $packages.Count
     return @{
         title   = "   PKGs"
-        content = "$numlines, $($env:PROCESSOR_ARCHITECTURE)"
+        content = "$numlines"
     }
 }
 
