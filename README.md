@@ -3,10 +3,13 @@
 
    <h3>xFetch.ps1</h3>
    <p>xFetch, made for pwsh</p>
+   <a href="https://github.com/lptstr/winfetch">
+      <img src="https://img.shields.io/badge/forked%20project-181717?logo=github&logoColor=fff&style=for-the-badge" alt="Forked Project">
+   </a>
 
 ---
 
 <p>xFetch.ps1 is a PowerShell script designed to report system information, mirroring the functionality of xFetch.</p>
-<p>It's written for PowerShell 5 and older</p>
+<p>xFetch.ps1 is written for PowerShell 5, can be used over.</p>
 
 </div>
